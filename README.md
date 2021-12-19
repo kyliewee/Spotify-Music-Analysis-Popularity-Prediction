@@ -1,5 +1,6 @@
 # Spotify Music Analysis and Popularity Prediction
 Analyzing music data and predicting popularity of songs in Spotify with Machine Learning.
+- Jupyter Notebook and PPT
 
 ## Overview
 Has the music streaming service influenced the creation of a song? We would like to use the Spotify dataset to understand how the song is composed and what feature is affecting the popularity of the song.
